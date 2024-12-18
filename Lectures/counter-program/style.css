@@ -1,0 +1,17 @@
+body{
+  padding: 25px;
+}
+.title {
+	color: #5C6AC4;
+}
+
+
+
+
+.buttons{
+  margin: 10px;
+  tex-align: center;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
